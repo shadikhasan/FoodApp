@@ -1,5 +1,5 @@
 ## Getting started
-# Django App Setup
+# Food App (Django) Setup
 
 ## Prerequisites
 
