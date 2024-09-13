@@ -1,0 +1,59 @@
+header nav.bg-light {
+  background: #13a18733 !important;
+}
+
+body {
+  background: #f8f9fa !important;
+}
+
+.details,
+form {
+  margin-top: 2em;
+}
+
+h2.confirmation {
+  text-align: center;
+}
+
+.centrar {
+  margin: auto !important;
+  display: flex !important;
+}
+
+.centrar button {
+  margin: auto !important;
+}
+
+body .container {
+  padding-top: 1em;
+  padding-bottom: 4em !important;
+}
+
+button.rounded-pill {
+  border-radius: 12px;
+  width: 100%;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+p.log-reg {
+  padding-top: 1em;
+}
+
+div.row.sep,
+button.sep {
+  margin-top: 1em;
+}
+
+div.row.sep input {
+  width: 100%;
+}
+
+.nav-link {
+  color: #ffffff; /* Default color */
+  transition: color 0.3s ease; /* Smooth transition */
+}
+
+.nav-link:hover {
+  color: #ffc107; /* Color on hover (e.g., yellow) */
+}
