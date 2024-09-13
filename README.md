@@ -2,7 +2,7 @@
 ![Screenshot (8)](https://github.com/user-attachments/assets/ac5efdbd-20e3-49a9-aef8-ea64100f6972)
 ![Screenshot (9)](https://github.com/user-attachments/assets/94c526b9-614a-4911-8ff5-bd03e317fe57)
 
-# Food App (Django) Setup
+# 1. Food App (Django) Setup
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ python manage.py runserver
 The API will then be available at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
 
-## With docker
+# 2. Using docker
 ### Build Docker file
 
 ```
