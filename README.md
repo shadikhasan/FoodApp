@@ -1,4 +1,7 @@
 ## Getting started
+![Screenshot (8)](https://github.com/user-attachments/assets/ac5efdbd-20e3-49a9-aef8-ea64100f6972)
+![Screenshot (9)](https://github.com/user-attachments/assets/94c526b9-614a-4911-8ff5-bd03e317fe57)
+
 # Food App (Django) Setup
 
 ## Prerequisites
