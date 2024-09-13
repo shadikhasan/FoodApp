@@ -12,7 +12,7 @@ docker-compose build
 docker-compose up
 ```
 
-The API will then be available at [http://127.0.0.1:8000/home](http://127.0.0.1:8000/).
+The API will then be available at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
 ### To Log in To the Dashboard(Frontend) or Admin Panel
 
